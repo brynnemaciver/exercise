@@ -1,4 +1,4 @@
-# exercise
+# Exercise
 
 This graph shows the gender breakdown of the top five countries enrolled in the course. 
 
